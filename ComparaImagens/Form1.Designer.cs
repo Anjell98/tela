@@ -72,7 +72,7 @@ namespace ImageComparison
             // 
             // btnCompararImagens
             // 
-            this.btnCompararImagens.BackColor = System.Drawing.Color.SaddleBrown;
+            this.btnCompararImagens.BackColor = System.Drawing.Color.Turquoise;
             this.btnCompararImagens.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCompararImagens.ForeColor = System.Drawing.Color.LavenderBlush;
             this.btnCompararImagens.Location = new System.Drawing.Point(43, 363);
@@ -122,7 +122,7 @@ namespace ImageComparison
             // 
             // btnEncerrar
             // 
-            this.btnEncerrar.BackColor = System.Drawing.Color.SaddleBrown;
+            this.btnEncerrar.BackColor = System.Drawing.Color.SteelBlue;
             this.btnEncerrar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEncerrar.ForeColor = System.Drawing.Color.LavenderBlush;
             this.btnEncerrar.Location = new System.Drawing.Point(529, 363);
@@ -136,7 +136,7 @@ namespace ImageComparison
             // 
             // btnLimpar
             // 
-            this.btnLimpar.BackColor = System.Drawing.Color.SaddleBrown;
+            this.btnLimpar.BackColor = System.Drawing.Color.Lime;
             this.btnLimpar.Enabled = false;
             this.btnLimpar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLimpar.ForeColor = System.Drawing.Color.LavenderBlush;
